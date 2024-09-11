@@ -4,6 +4,8 @@ ASSIGNMENT-1
 i)https://colab.research.google.com/drive/1ur2YGoPlvFlaPHBygCL2HyjQ7iRrs1K7
 
 ii)https://colab.research.google.com/drive/1eqk0SwTzAUktjFp8ZXJc2BdaganAExXs
+ASSIGNMENT-2
+https://colab.research.google.com/drive/1U0wPx6cjhKwii5Me8dAEsT9HP4ctYJct#scrollTo=xVfv1jOZl6q8
 
 ASSIGNMENT - 3  
 https://colab.research.google.com/drive/1qW6BZA46eMu1_7w1w1FAMTGGqoCDKeMK#scrollTo=eeK1DhEfJtiD  

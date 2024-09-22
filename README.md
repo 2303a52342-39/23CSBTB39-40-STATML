@@ -24,7 +24,8 @@ ASSIGNMENT-6
 https://colab.research.google.com/drive/1kj6Ga_GI7P8P8swNQjp6iFfpqphCoBWQ#scrollTo=1YVjVPwUdcuQ
 
 ASSIGNMENT-7
-https://colab.research.google.com/drive/1kUFWpyMoIrhmhd25VxIMO9fEMWteQwCL#scrollTo=21rDczEyVO_t
-
+https://colab.research.google.com/drive/1kUFWpyMoIrhmhd25VxIMO9fEMWteQwCL#scrollTo=21rDczEyVO_t     
+ASSIGNMENT-8   
+https://colab.research.google.com/drive/1HwFRShL2i_BIvrGWVNCJqpI1EePz9gay#scrollTo=TpQl9AUeJxcF
 
 
